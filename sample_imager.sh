@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Version 1.0
+#Version 1.0.1
 
 #Set the colors for the script's output.
 color="\e[32;40m"
