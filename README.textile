@@ -32,6 +32,9 @@ Options for images are:
 
 h2. Usage
 
+To run the script, simply navigate to the script in the terminal client of your choice 
+and run "./sample_imager.sh". Follow the instructions when prompted.
+
 We want you to feel free to use this script (as well as the images on Flickr) 
 in any way you need, if you have found this script or the images useful, 
 we'd love to hear from you!
