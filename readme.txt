@@ -1,5 +1,7 @@
 h1. Sample Imager
 
+Version 1.0
+
 Sample Imager is a simple shell script that makes it easy to download a set of sample images from 
 dataLAB's Flickr account. The images can be used for development and testing purposes. 
 Each set of images consist of 99 files that are numbered from 1-99.
